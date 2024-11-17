@@ -29,6 +29,7 @@ components/: Holds React components such as CountryList, Details, and Population
 App.js: The main file where routing and core application logic are defined.
 
 
-![Ekran görüntüsü 2024-11-16 213127](https://github.com/user-attachments/assets/be01a709-125c-4b20-874c-9d97f162c1aa)
-![Ekran görüntüsü 2024-11-16 213110](https://github.com/user-attachments/assets/87c817b8-39e5-4bff-ad7e-94e44c99b8aa)
-![Ekran görüntüsü 2024-11-16 213143](https://github.com/user-attachments/assets/2ec558ec-b5dc-45e2-8802-9c4f4b22e762)
+
+![screenshot3](https://github.com/user-attachments/assets/382caf45-4dae-48f0-bd91-f836ec8afea4)
+![screenshot2](https://github.com/user-attachments/assets/511ce623-fe8f-4f00-9dec-cb5474fb9994)
+![screenshot1](https://github.com/user-attachments/assets/029c6be0-70fd-43b7-b0a8-ec8774d638b3)
