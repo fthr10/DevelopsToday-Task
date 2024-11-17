@@ -5,12 +5,16 @@ This is a React-based application that visualizes country population data over t
 ## How to Run the Project
 
 1 **Clone the Repository**  
-	First, clone the repository to your local machine:
+First, clone the repository to your local machine:
 
    ```bash
    git clone <repository-url>
 
 cd <project-folder>
+first backend,
+npm install
+npm start
+after frontend go to terminal
 npm install
 npm start
 This will launch the application locally at http://localhost:3000.
