@@ -27,9 +27,3 @@ Folder Structure
 src/: Contains all source code for the app.
 components/: Holds React components such as CountryList, Details, and PopulationChart.
 App.js: The main file where routing and core application logic are defined.
-
-
-
-![screenshot3](https://github.com/user-attachments/assets/382caf45-4dae-48f0-bd91-f836ec8afea4)
-![screenshot2](https://github.com/user-attachments/assets/511ce623-fe8f-4f00-9dec-cb5474fb9994)
-![screenshot1](https://github.com/user-attachments/assets/029c6be0-70fd-43b7-b0a8-ec8774d638b3)
